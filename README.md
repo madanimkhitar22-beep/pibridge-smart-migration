@@ -2,7 +2,7 @@
 
 **PiBridge – Smart Migration** is a secure, governance-driven migration utility that enables users to move assets between Pi Network and external blockchains with full transparency, institutional safeguards, and emergency protection.
 
-This application is part of the [PiTrust Protocol](https://github.com/madanimkhitar22-beep/pitrust-protocol), and reflects a broader vision of decentralized infrastructure built with integrity, auditability, and community empowerment.
+This application is part of the [PiTrust Protocol](https://github.com/madanimkhitar22-beep/PiTrust-Infrastructure-Protocol), and reflects a broader vision of decentralized infrastructure built with integrity, auditability, and community empowerment.
 
 🔗 Live demo: [apppibridgesmart8213.pinet.com](https://apppibridgesmart8213.pinet.com)
 
